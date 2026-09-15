@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Amr Al Khozondar — Full-Stack Developer. Laravel, Vue, React, Next.js and Flutter." width="100%" />
+  <img src="./assets/header.svg" alt="Amr Al Khozondar — Full-Stack Developer. PHP, Laravel and Vue.js." width="100%" />
 </p>
 
 <p align="center">
-  <strong>Web platforms · Backend systems · Mobile applications</strong><br />
+  <strong>Web platforms · Laravel backends · Vue.js interfaces</strong><br />
   Gaza, Palestine<br /><br />
   <a href="https://www.linkedin.com/in/amr-al-khozondar-412282374/"><strong>LinkedIn ↗</strong></a> &nbsp; · &nbsp;
   <a href="https://github.com/zxSHOXxz">GitHub ↗</a>
@@ -21,30 +21,33 @@
 
 ## About
 
-I'm **Amr Al Khozondar**, a full-stack developer from Palestine. My work spans Laravel backends, Vue and React interfaces, and Flutter mobile applications, with a focus on software that supports real operational workflows.
+I'm **Amr Al Khozondar**, a full-stack developer from Palestine. My development focus is PHP, Laravel, and Vue.js, building web applications that support real operational workflows.
 
 I work across **medical education, conference management, and digital healthcare** — domains where scheduling, permissions, reporting, and a clear user experience need to fit together. My work includes developing features, integrating APIs, investigating defects, and improving existing applications.
 
-My strongest focus is **PHP and Laravel**, supported by hands-on work across the frontend and mobile layers. I care about how a feature behaves as a whole: the data it changes, who can access it, what the user sees, and how it handles failure.
+My strongest focus is **PHP and Laravel**, alongside Vue.js web development. I care about how a feature behaves as a whole: the data it changes, who can access it, what the user sees, and how it handles failure.
 
 ## Technical stack
 
 | Area | Technologies I work with |
 | :--- | :--- |
 | **Backend** | PHP · Laravel · REST APIs · Eloquent ORM · Sanctum |
-| **Frontend** | JavaScript · TypeScript · Vue.js · React · Next.js · Inertia.js |
+| **Frontend** | JavaScript · TypeScript · Vue.js · Inertia.js |
 | **Interface development** | HTML · CSS · Tailwind CSS · Vuetify · Responsive layouts |
-| **Mobile** | Dart · Flutter · API integration |
 | **Data & background processing** | MySQL · PostgreSQL · Redis · Laravel Queues · Horizon |
 | **Application architecture** | Multi-tenancy · Modular applications · Role-based permissions |
 | **Testing & code quality** | Pest · PHPUnit · PHPStan / Larastan · ESLint |
 | **Development & delivery** | Git · GitHub · Docker · Vite · GitHub Actions |
 
+### AI-assisted project work
+
+I have also used AI tools to work on **React, Next.js, and Flutter** components within these projects. These contributions were AI-assisted; I do not claim independent proficiency in those frameworks.
+
 ## Selected project work
 
 ### Medlet · Medical education
 
-Work across a platform supporting medical training and academic administration, with a **Laravel backend and a Next.js / React frontend**.
+Work on a platform supporting medical training and academic administration, with a focus on its **Laravel backend**. Work on the React / Next.js frontend was AI-assisted.
 
 - Evaluation workflows, assessment statistics, and training logbooks.
 - Administrative interfaces and reporting for education workflows.
@@ -66,14 +69,14 @@ Work across conference operations using **Laravel and Vue.js**, connecting admin
 
 ### Tabib · Digital healthcare
 
-Work across a healthcare application with a **Laravel backend, Vue.js web interfaces, and a Flutter mobile app**.
+Work on a healthcare application with a **Laravel backend and Vue.js web interfaces**. Work on its Flutter mobile app was AI-assisted.
 
 - Appointment booking and scheduling flows.
 - Video consultation and communication experiences.
 - Medical record and prescription workflows.
-- Arabic-first mobile experiences and integration with backend APIs.
+- Backend APIs supporting an Arabic-first mobile experience.
 
-**Engineering focus:** coordinating web, mobile, and backend behavior throughout the appointment and consultation journey.
+**Engineering focus:** backend and web workflows supporting the appointment and consultation journey.
 
 <sub>These summaries describe the general scope of my work. Project source repositories are private.</sub>
 
@@ -91,7 +94,7 @@ Work across a healthcare application with a **Laravel backend, Vue.js web interf
 
 ## Connect
 
-For professional conversations about web platforms, Laravel development, or mobile applications, connect with me on **[LinkedIn](https://www.linkedin.com/in/amr-al-khozondar-412282374/)**.
+For professional conversations about Laravel backends, Vue.js interfaces, or web platforms, connect with me on **[LinkedIn](https://www.linkedin.com/in/amr-al-khozondar-412282374/)**.
 
 ---
 
