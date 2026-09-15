@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">Amr Al Khozondar — Full-Stack Developer</title>
+  <desc id="desc">Laravel, Vue, React and Flutter. Web platforms and mobile applications. Palestine.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101e31"/><stop offset="1" stop-color="#080f1c"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#43dfc2"/><stop offset="1" stop-color="#77a9ff"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#20324a" stroke-width=".65"/></pattern>
+  </defs>
+  <rect width="1200" height="350" rx="18" fill="url(#bg)"/>
+  <rect x="780" width="420" height="350" fill="url(#grid)" opacity=".65"/>
+  <rect x="48" y="48" width="34" height="4" rx="2" fill="url(#accent)"/>
+  <text x="96" y="56" fill="#a8bacd" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="3">ENGINEERING FOR THE WEB &amp; MOBILE</text>
+  <text x="48" y="130" fill="#f0f5fc" font-family="Segoe UI,Arial,sans-serif" font-size="49" font-weight="700" letter-spacing="-1.5">Amr Al Khozondar</text>
+  <text x="49" y="176" fill="#65e3ce" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="500">Full-Stack Developer</text>
+  <text x="49" y="221" fill="#b4c3d5" font-family="Segoe UI,Arial,sans-serif" font-size="18">From application logic to the experience on screen.</text>
+  <path d="M49 253H720" stroke="#293a50"/>
+  <text x="49" y="290" fill="#d8e3ef" font-family="Segoe UI,Arial,sans-serif" font-size="15">LARAVEL</text>
+  <circle cx="143" cy="285" r="2" fill="#65e3ce"/>
+  <text x="162" y="290" fill="#d8e3ef" font-family="Segoe UI,Arial,sans-serif" font-size="15">VUE</text>
+  <circle cx="211" cy="285" r="2" fill="#65e3ce"/>
+  <text x="230" y="290" fill="#d8e3ef" font-family="Segoe UI,Arial,sans-serif" font-size="15">REACT / NEXT.JS</text>
+  <circle cx="360" cy="285" r="2" fill="#65e3ce"/>
+  <text x="379" y="290" fill="#d8e3ef" font-family="Segoe UI,Arial,sans-serif" font-size="15">FLUTTER</text>
+  <text x="718" y="290" text-anchor="end" fill="#8ea3bc" font-family="Segoe UI,Arial,sans-serif" font-size="14">PALESTINE</text>
+  <rect x="849" y="62" width="273" height="224" rx="16" fill="#112136" stroke="#304961"/>
+  <rect x="849" y="62" width="273" height="4" rx="2" fill="url(#accent)"/>
+  <text x="874" y="100" fill="#88a6c3" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="2">APPLICATION STACK</text>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="874" y="118" width="223" height="39" rx="7" fill="#172e43"/>
+    <text x="890" y="143" fill="#e7f0fa" font-size="14">01</text><text x="925" y="143" fill="#c4d6e9" font-size="14">Web &amp; mobile</text>
+    <path d="M985 158V169" stroke="#65e3ce"/>
+    <rect x="874" y="170" width="223" height="39" rx="7" fill="#172e43"/>
+    <text x="890" y="195" fill="#e7f0fa" font-size="14">02</text><text x="925" y="195" fill="#c4d6e9" font-size="14">APIs &amp; business logic</text>
+    <path d="M985 210V221" stroke="#65e3ce"/>
+    <rect x="874" y="222" width="223" height="39" rx="7" fill="#172e43"/>
+    <text x="890" y="247" fill="#e7f0fa" font-size="14">03</text><text x="925" y="247" fill="#c4d6e9" font-size="14">Data &amp; background jobs</text>
+  </g>
+</svg>
